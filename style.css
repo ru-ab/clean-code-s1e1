@@ -38,13 +38,13 @@ body {
 }
 #incomplete-tasks,
 #completed-tasks {
-  margin:0;
+  margin: 0;
   padding: 0px;
   list-style: none;
 }
 .button,
 .input {
-  outline:none;
+  outline: none;
 }
 .button {
   background: none;
@@ -138,14 +138,14 @@ body {
 
 /* Edit Task */
 .task-item .task-input {
-  display:none
+  display: none
 }
 
 .edit-mode .task-input {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .edit-mode .task-label {
-  display:none;
+  display: none;
 }
