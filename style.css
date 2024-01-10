@@ -33,7 +33,7 @@
   display: inline-block;
   flex-grow: 1;
 }
-.row-wrapper {
+.new-task__content {
   display: flex;
 }
 .incomplete-tasks,
